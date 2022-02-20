@@ -6,4 +6,4 @@ Progetto di gruppo per il corso di Sistemi Operativi
 
 Analisi della frequenza di lettere in file di testo utilizzando pipe per la gestione del flusso di dati fra sottoprocessi concorrenti.
 
-![Schema](docs/schemaCOMPLETE.png)
+![Schema](docs/SchemaCOMPLETE.png)
